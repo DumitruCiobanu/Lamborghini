@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'impact', sans-serif;
-    src: url(../fonts/impact.woff2);
+    src: local("impact"), url("../fonts/impact.woff2");
 }
 
 html{
