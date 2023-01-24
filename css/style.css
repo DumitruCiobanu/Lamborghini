@@ -554,6 +554,8 @@ transform: translateX(8px);
 }
 .title{
     font-size: 64px;
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
 }
 .subtitle{
     font-size: 42px;
@@ -567,6 +569,10 @@ transform: translateX(8px);
 .evo-white__inner::after{
     display: none;
 }
+.title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
+    }
 }
 
 
@@ -635,6 +641,10 @@ background-color: #fff;
 .info__title{
     max-width: 100%;
 }
+.title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
+    }
 }
 
 @media (max-width: 768px) {
@@ -674,6 +684,10 @@ background-color: #fff;
     .footer{
         padding: 50px 0;
     }
+    .title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
+    }
 }
 
 
@@ -697,6 +711,10 @@ background-color: #fff;
     .footer-top{
         display: block;
     }
+    .title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
+    }
 }
 
 @media (max-width: 560px) {
@@ -716,6 +734,10 @@ background-color: #fff;
     .evo-black__inner::after{
         display: none;
     }
+    .title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
+    }
 }
 
 @media (max-width: 480px) {
@@ -727,6 +749,10 @@ background-color: #fff;
     display: block;
     padding: 20px 0;
 }
+.title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
+    }
 }
 
 @media (max-width: 340px) {
@@ -741,5 +767,9 @@ background-color: #fff;
 @media (max-width: 340px) {
     .menu-link{
         padding: 15px 0;
+    }
+    .title{
+    font-family: 'impact', sans-serif;
+    font-weight: 400;
     }
 }
