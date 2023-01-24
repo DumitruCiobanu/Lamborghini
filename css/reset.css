@@ -92,3 +92,8 @@ hr {
 input, select {
     vertical-align:middle;
 }
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: vivaldi;
+    font-weight: normal!important;
+}
